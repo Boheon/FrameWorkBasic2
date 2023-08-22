@@ -1,6 +1,6 @@
 package org.galapagos.common.cli.ui;
 
-import org.galapagos.multiCampus.command.Command;
+import org.galapagos.common.cli.command.Command;
 
 public class MenuItem {
     private String title;//메뉴 제목

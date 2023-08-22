@@ -1,6 +1,8 @@
 package org.galapagos.multiCampus.command;
 
-public class ExitCommand implements Command{
+import org.galapagos.common.cli.command.Command;
+
+public class ExitCommand implements Command {
 
     @Override
     public void execute() {
