@@ -1,4 +1,4 @@
-package org.galapagos.command;
+package org.galapagos.multiCampus.command;
 
 public class SearchCommand implements Command{
     @Override

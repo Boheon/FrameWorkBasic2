@@ -1,8 +1,6 @@
 package org.galapagos.common.cli.ui;
 
-import org.galapagos.command.ListCommand;
-
-import java.util.List;
+import org.galapagos.multiCampus.command.ListCommand;
 
 public class MenuItemTest {
     public static void main(String[] args) {
